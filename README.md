@@ -1,4 +1,4 @@
 # the-best-meal-recipe
 how to make the best and tastiest food ever
 
-![GitHub Logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi767jJkezkAhUEnFkKHaBYA4wQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdlgkIt2C4M0&psig=AOvVaw1JIVHisWu3K_cxpptGxcg4&ust=1569505329742796)
+![GitHub Logo](https://www.thespruceeats.com/thmb/Z8-ZBx6ejhg7weuKOBhjloZo-kA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-143666357-cb1fe8afdaa449a1b3fa6684cb9f26b0.jpg)
